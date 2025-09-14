@@ -2,11 +2,11 @@
 
 <h3 align="center">✨ Digital Craftsman · Developer · Video Editor · Gamer ✨</h3>
 
-<p align="center">
+<h2 align="center">
   I’m a passionate <b>full-stack developer</b> who loves bringing ideas to life — from tackling real-world challenges to creating tools that make life easier.  
   Beyond code, I dive into <b>video editing</b> for creativity and <b>gaming</b> to recharge.  
   Every project I build carries meaning, and I’m here for the long haul of continuous learning 🚀.
-</p>
+</h2>
 
 ---
 
@@ -28,7 +28,7 @@
 
 ---
 
-<h2 align="center">⚡ Tech Stack ⚡</h2>
+<h2 align="center">⚡ Tech Stack & Tools ⚡</h2>
 <p align="center">
   <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img alt="Spring Boot" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
