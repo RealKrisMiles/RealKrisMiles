@@ -50,8 +50,8 @@ I’m a full-stack dev who’s always pumped to learn new stuff and turn that kn
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
-![snake gif](https://github.com/RealKrisMiles/RealKrisMiles/blob/output/github-snake-dark.svg)
+  
+   ![snake gif](https://github.com/RealKrisMiles/RealKrisMiles/blob/output/github-snake-dark.svg)
   
   <br/><br/><br/>
 </div>
