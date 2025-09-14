@@ -45,7 +45,7 @@ I’m a full-stack dev who’s always pumped to learn new stuff and turn that kn
 <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
 <img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
 
----
+<hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
