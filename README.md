@@ -3,6 +3,24 @@
 **`Digital Craftsman (Developer/VideoEditor/Gamer)`**
 
 I’m a full-stack dev who’s always pumped to learn new stuff and turn that knowledge into real, useful projects. I love building things from scratch—whether it’s solving a real-world problem or just a personal headache. When I’m not coding up a storm, you’ll find me editing videos for fun or gaming to unwind. Every project I’m working on is gonna be something meaningful, and I’m all about keeping that vibe going for the long run.
+---
+
+### Follow me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rajathkrishnaprabhu/" target="_blank">
+    <img alt="LinkedIn" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"/>
+  </a>
+  <a href="https://www.instagram.com/rajathkprabhu/" target="_blank">
+    <img alt="Instagram" title="Follow on Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge&labelColor=833AB4"/>
+  </a>
+  <a href="mailto:rajathkrishnaprabhu@gmail.com">
+    <img alt="Email" title="Send me an Email" src="https://custom-icon-badges.demolab.com/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge&labelColor=D14836"/>
+  </a>
+  <a href="https://github.com/RealKrisMiles" target="_blank">
+    <img alt="GitHub" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/yourgithubusername?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
