@@ -1,6 +1,6 @@
 ## Rajath Krishna Prabhu 👋
 
-**Digital Craftsman (Developer/VideoEditor/Gamer)**
+**`Digital Craftsman (Developer/VideoEditor/Gamer)`**
 
 I’m a full-stack dev who’s always pumped to learn new stuff and turn that knowledge into real, useful projects. I love building things from scratch—whether it’s solving a real-world problem or just a personal headache. When I’m not coding up a storm, you’ll find me editing videos for fun or gaming to unwind. Every project I’m working on is gonna be something meaningful, and I’m all about keeping that vibe going for the long run.
 
