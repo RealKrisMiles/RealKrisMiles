@@ -57,6 +57,5 @@ I’m a full-stack dev who’s always pumped to learn new stuff and turn that kn
 </div>
 <hr/>
 
-![](https://leetcard.jacoblin.cool/RajathKrishnaPrabhu?theme=unicorn)
 ![](https://leetcard.jacoblin.cool/RajathKrishnaPrabhu?theme=light,unicorn)
 
