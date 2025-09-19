@@ -66,6 +66,6 @@
 ---
 <h2 align="center">💻 Top language Stats</h2>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/RajathKrishnaPrabhu?theme=light,unicorn" alt="LeetCode Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealKrisMiles&layout=compact" alt="LeetCode Stats"/>
 </p>
 
