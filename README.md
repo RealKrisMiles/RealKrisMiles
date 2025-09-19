@@ -63,3 +63,6 @@
   <img src="https://leetcard.jacoblin.cool/RajathKrishnaPrabhu?theme=light,unicorn" alt="LeetCode Stats"/>
 </p>
 
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RealKrisMiles)](https://github.com/RealKrisMiles/github-readme-stats)
+
