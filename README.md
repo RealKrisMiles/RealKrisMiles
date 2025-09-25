@@ -51,10 +51,6 @@
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
-<p align="center">
-  <img src="https://github.com/RealKrisMiles/RealKrisMiles/blob/output/github-snake-dark.svg" alt="Snake animation"/>
-</p>
 
 ---
 
